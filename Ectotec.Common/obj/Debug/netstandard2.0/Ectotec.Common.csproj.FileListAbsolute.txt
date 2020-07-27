@@ -1,0 +1,8 @@
+C:\EctoTecWepApi\Ectotec.Common\bin\Debug\netstandard2.0\Ectotec.Common.deps.json
+C:\EctoTecWepApi\Ectotec.Common\bin\Debug\netstandard2.0\Ectotec.Common.dll
+C:\EctoTecWepApi\Ectotec.Common\bin\Debug\netstandard2.0\Ectotec.Common.pdb
+C:\EctoTecWepApi\Ectotec.Common\obj\Debug\netstandard2.0\Ectotec.Common.AssemblyInfoInputs.cache
+C:\EctoTecWepApi\Ectotec.Common\obj\Debug\netstandard2.0\Ectotec.Common.AssemblyInfo.cs
+C:\EctoTecWepApi\Ectotec.Common\obj\Debug\netstandard2.0\Ectotec.Common.csproj.CoreCompileInputs.cache
+C:\EctoTecWepApi\Ectotec.Common\obj\Debug\netstandard2.0\Ectotec.Common.dll
+C:\EctoTecWepApi\Ectotec.Common\obj\Debug\netstandard2.0\Ectotec.Common.pdb

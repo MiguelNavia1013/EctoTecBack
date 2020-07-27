@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ectotec.Bussiness\Ectotec.Bussiness.csproj" />
+    <ProjectReference Include="..\Ectotec.Common\Ectotec.Common.csproj" />
+    <ProjectReference Include="..\Ectotec.DataAccess\Ectotec.DataAccess.csproj" />
+  </ItemGroup>
+
+
+</Project>

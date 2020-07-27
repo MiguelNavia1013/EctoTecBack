@@ -1,0 +1,14 @@
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.Bussiness.deps.json
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.Bussiness.dll
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.Bussiness.pdb
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.Common.dll
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.DataAccess.dll
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.Common.pdb
+C:\EctoTecWepApi\Ectotec.Bussiness\bin\Debug\netstandard2.0\Ectotec.DataAccess.pdb
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.csprojAssemblyReference.cache
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.AssemblyInfoInputs.cache
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.AssemblyInfo.cs
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.csproj.CoreCompileInputs.cache
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.csproj.CopyComplete
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.dll
+C:\EctoTecWepApi\Ectotec.Bussiness\obj\Debug\netstandard2.0\Ectotec.Bussiness.pdb

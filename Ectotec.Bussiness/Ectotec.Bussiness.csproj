@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ectotec.Common\Ectotec.Common.csproj" />
+    <ProjectReference Include="..\Ectotec.DataAccess\Ectotec.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

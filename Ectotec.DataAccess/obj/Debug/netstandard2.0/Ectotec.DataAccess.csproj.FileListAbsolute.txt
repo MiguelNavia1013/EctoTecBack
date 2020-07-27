@@ -1,0 +1,12 @@
+C:\EctoTecWepApi\Ectotec.DataAccess\bin\Debug\netstandard2.0\Ectotec.DataAccess.deps.json
+C:\EctoTecWepApi\Ectotec.DataAccess\bin\Debug\netstandard2.0\Ectotec.DataAccess.dll
+C:\EctoTecWepApi\Ectotec.DataAccess\bin\Debug\netstandard2.0\Ectotec.DataAccess.pdb
+C:\EctoTecWepApi\Ectotec.DataAccess\bin\Debug\netstandard2.0\Ectotec.Common.dll
+C:\EctoTecWepApi\Ectotec.DataAccess\bin\Debug\netstandard2.0\Ectotec.Common.pdb
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.csprojAssemblyReference.cache
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.AssemblyInfoInputs.cache
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.AssemblyInfo.cs
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.csproj.CoreCompileInputs.cache
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.csproj.CopyComplete
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.dll
+C:\EctoTecWepApi\Ectotec.DataAccess\obj\Debug\netstandard2.0\Ectotec.DataAccess.pdb
